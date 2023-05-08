@@ -1,0 +1,1 @@
+print('To jest pierwsze zadanie z nowym branchem.')
